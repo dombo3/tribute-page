@@ -1,6 +1,7 @@
-# "Tribute Page" FreeCodeCamp Practice Project
+# FreeCodeCamp Responise Web Design Certification Tribute Page
 
-Responsive Web Design Certification First Project:
-  Practice creating simple layout with responsive image;
+Practice creating simple layout with responsive image;
 
-[Original Page](https://codepen.io/freeCodeCamp/full/zNqgVx)
+[Preview site](https://tribute-page-iota.vercel.app/)
+
+![Desktop](./image/solution-desktop-tribute-page.png)
